@@ -1,1 +1,2 @@
-valorantg
+valorant:valorant
+valoratsenha
